@@ -4,4 +4,5 @@
     <string name="Milk_text"> Milk </string>
     <string name="Sugar_text"> Sugar </string>
     <string name="Water_text"> Water </string>
+    <string name="Button_text"> Show </string>
 </resources>
