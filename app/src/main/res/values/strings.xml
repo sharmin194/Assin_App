@@ -1,8 +1,30 @@
 <resources>
-    <string name="app_name">Assignment_Demo App</string>
-    <string name="title_text"> What do want to you buy ? </string>
-    <string name="Milk_text"> Milk </string>
-    <string name="Sugar_text"> Sugar </string>
-    <string name="Water_text"> Water </string>
-    <string name="Button_text"> Show </string>
+
+    <string name="app_name">Assignment Demo App</string>
+
+    <string name="title_text">Order Your Drink and Preferences</string>
+
+    <!--for CheckBox -->
+    <string name="Milk_text">Milk</string>
+    <string name="Sugar_text">Sugar</string>
+    <string name="Water_text">Water</string>
+    <string name="show_selected_ingredients">Show Selected Ingredients</string>
+
+    <!--for Radio Button -->
+    <string name="language_preference_question">Which programming language do you prefer?</string>
+    <string name="Python_text">Python</string>
+    <string name="Java_text">Java</string>
+    <string name="show_selected_language">Show Selected Language</string>
+
+    <!-- RatingBar -->
+    <string name="rate_experience">Rate your experience</string>
+
+    <!-- SeekBar -->
+    <string name="adjust_brightness">Adjust Brightness</string>
+    <string name="brightness_text">Brightness: %1$d</string>
+
+    <!-- Switch -->
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="notifications_enabled">Notifications Enabled</string>
+    <string name="notifications_disabled">Notifications Disabled</string>
 </resources>
